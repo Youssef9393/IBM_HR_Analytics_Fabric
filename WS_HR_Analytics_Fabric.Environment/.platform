@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "WS_HR_Analytics_Fabric",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0930bfcd-bd13-99f9-4f23-fe4655f77394"
+  }
+}
